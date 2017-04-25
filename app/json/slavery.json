@@ -1,0 +1,123 @@
+{
+	"timeline":
+	{
+		"headline":"Slavery Throughout the United States of America",
+		"type":"default",
+		"text":"<p>Intro body text goes here, some HTML is ok</p>",
+		"asset": {
+			"media":"../images/black-man-in-chains.jpg",
+			"credit":"Credit Name Goes Here",
+			"caption":"Caption text goes here"
+		},
+		"date": [
+			{
+				"startDate":"1501",
+				"endDate":"1581",
+				"headline":"African Slaves in the New World",
+				"text":"<li>Spanish settlers bring slaves from Africa to Santo Domingo (now the capital of the Dominican Republic)</li><li>Caribbean Slaves rebel on the Caribbean island of Hispaniola, which now comprises Haiti and the Dominican Republic</li><li>John Hawkins, the first Briton to take part in the slave trade, makes a huge profit hauling human cargo from Africa to Hispaniola</li><li>Spanish residents in St. Augustine, the first permanent settlement in Florida, import African slaves</li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"1600",
+				"endDate":"",
+				"headline":"Slave Revolt:",
+				"text":"<li></li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"",
+				"endDate":"",
+				"headline":"Slave Revolt:",
+				"text":"<li></li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"",
+				"endDate":"",
+				"headline":"Slave Revolt:",
+				"text":"<li></li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"1800",
+				"endDate":"1840",
+				"headline":"Slave Revolt:",
+				"text":"<li>1808 - The United States bans Slave Trade but smuggling continues.</li><li>1820 - The Missouri Compromise is passed so Maine is inducted as a free state while Missouri is admitted as a slave state. Slavery is now forbidden north of the 36° 30´ latitude line.</li><li>1822 - Attempted Slave revolt in Charleston, SC. 35 are hung.</li><li>1831 - Next attempted Slave revolt, led by preacher Nat Turner. The two-day uprising led to the killing of about 60 whites. Within the next two months, Turner is found and hung</li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"1845",
+				"endDate":"1857",
+				"headline":"Slave Revolt:",
+				"text":"<li>1846-48 - The Mexican-American War. Defeated, Mexico yields an enormous amount of territory to the United States. Americans then wrestle with a controversial topic: Is slavery permitted in the new lands?</li><li>1847 - Frederick Douglass begins publishing the North Star in Rochester, New York.</li></li>1849 - After fleeing slavery, Harriet Tubman returns south at least 15 times to help rescue several hundred others.</li><li>1850 - In exchange for California’s entering the Union as a free state, northern congressmen accept a harsher Fugitive Slave Act.</li><li>1854 - Kansas-Nebraska Act. Setting aside the Missouri Compromise of 1820, Congress allows these two new territories to choose whether to allow slavery. Violent clashes erupt.</li><li>1857 - The United States Supreme Court decides, seven to two, that blacks can never be citizens and that Congress has no authority to outlaw slavery in any territory.</li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"1860",
+				"endDate":"1865",
+				"headline":"Nearing the End",
+				"text":"<li>1860 - Abraham Lincoln of Illinois becomes the first Republican to win the United States Presidency. During this time, South Carolina secedes in December. More states follow the next year</li><li>1861-65 - The United States Civil War happens and during the four years of brutal conflict, 623,000 lives were claim. During this time, the Emancipation Proclamation was signed by President Abraham Lincoln. It decreed that all slaves in Rebel territory were to be free on January 1, 1863</li><li>1865 - The 13th Amendment to the United States Constitution outlaws slavery</li>",
+				"tag":"This is Optional",
+				"classname":"optionaluniqueclassnamecanbeaddedhere",
+				"asset": {
+					"media":"",
+					"thumbnail":"../images/black-man-in-chains.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			}
+		],
+		"era": [
+			{
+				"startDate":"1501,12,10",
+				"endDate":"1899,12,11",
+				"headline":"Headline Goes Here",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"This is Optional"
+			}
+
+		]
+	}
+}
