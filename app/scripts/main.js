@@ -8,3 +8,15 @@ $(document).ready(function() {
 
 	});
 });
+
+// Activate Fullpage Video
+$(document).ready(function () {
+    $(".player").mb_YTPlayer();
+
+});
+
+//Hide Fullpage Video Text
+$( ".intro_vid" ).fadeOut( 12000, function() {
+  // Animation complete.
+});
+
