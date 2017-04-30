@@ -4,7 +4,8 @@
   "dependencies": {
     "bootstrap": "~4.0.0-alpha.6",
     "vis": "^4.19.1",
-    "fullpage.js": "^2.9.4"
+    "fullpage.js": "^2.9.4",
+    "lightbox2": "^2.9.0"
   },
   "overrides": {
     "bootstrap": {

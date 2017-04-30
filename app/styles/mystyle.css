@@ -75,3 +75,39 @@ margin: 0px auto 15px;
 .vco-storyjs .vco-container.vco-main {
 background-color: antiquewhite;
 }
+
+.image-holder {
+  width: 250px;
+  height: 250px;
+}
+
+
+/*SECTION 4*/
+
+.resource {
+  background-image: url('../images/slave-stock.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-position: center;
+	background-size:cover;
+	box-shadow: inset 0 0 0 2000px rgba(143, 143, 143, 0.59);
+}
+
+.r_link {
+color: #6c0000;
+}
+
+.facts-bg {
+  background-image: url('../images/facts.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-position: center;
+	background-size:cover;
+	box-shadow: inset 0 0 0 2000px rgba(143, 143, 143, 0.59);
+}
+
+.type {
+  color:azure;
+  font-size: 23px;
+  text-align: center;
+}

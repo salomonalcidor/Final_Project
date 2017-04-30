@@ -13,6 +13,7 @@
     <!-- bower:css -->
     <link rel="stylesheet" href="/bower_components/vis/dist/vis.css" />
     <link rel="stylesheet" href="/bower_components/fullpage.js/dist/jquery.fullpage.css" />
+    <link rel="stylesheet" href="/bower_components/lightbox2/dist/css/lightbox.css" />
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -34,9 +35,8 @@
     <ul id="Menu">
 	    <li data-menuanchor="Page1" class="active"><a href="#Page1">Intro</a></li>
 	    <li data-menuanchor="Page2"><a href="#Page2">The Visual Timeline</a></li>
-	    <li data-menuanchor="Page3"><a href="#Page3">Third section</a></li>
-	    <li data-menuanchor="Page4"><a href="#Page4">Fourth section</a></li>
-	    <li data-menuanchor="Page5"><a href="#Page5">Fifth section</a></li>
+	    <li data-menuanchor="Page3"><a href="#Page3">Fun Facts</a></li>
+	    <li data-menuanchor="Page4"><a href="#Page4">Educate Yourself</a></li>
     </ul>
 </nav>
 </header>
@@ -75,19 +75,66 @@
 	</div>
 
 <!--BEGIN SECTION THREE-->
-	<div class="section">
-	  <div class="slide" data-anchor="slide1"> Slide 1 </div>
-	  <div class="slide" data-anchor="slide2"> Slide 2 </div>
-	  <div class="slide" data-anchor="slide3"> Slide 3 </div>
-	  <div class="slide" data-anchor="slide4"> Slide 4 </div>
+	<div class="section facts-bg">
+	  <h1 style="text-align:center;padding-bottom:60px;color:antiquewhite;">Did You Know...</h1>
+	  <div class="row">
+	    <br>
+	    <div id="type" class="container col-md-5 type"></div>
+	  </div>
 	</div>
 
 <!--BEGIN SECTION FOUR-->
-	<div class="section">Some section</div>
+	<div class="section container-fluid resource">
+    <div class="row" style="text-align: center;">
+      <div class="images col-md-3">
+        <a class="example-image-link" href="images/sban_sized-940x688.jpeg" data-lightbox="example-set" data-title="Based on Douglas A. Blackmon's Pulitzer Prize-winning book, the film illuminates how in the years following the Civil War, insidious new forms of forced labor emerged in the American South, persisting until the onset of World War II.">
+          <img class="image-holder" src="images/sban_sized-940x688.jpeg" alt="Slavery By Another Name Image"/>
+        </a>
+        <a class="r_link" href="http://www.pbs.org/tpt/slavery-by-another-name/home/" target="_blank">Slavery By Another Name</a>
+      </div>
 
-<!--BEGIN SECTION FIVE-->
-	<div class="section">Some section</div>
-</div>
+      <div class="images col-md-3">
+        <a class="example-image-link" href="images/13th.jpeg" data-lightbox="example-set" data-title="With a potent mixture of archival footage and testimony from a dazzling array of activists, politicians, historians, and formerly incarcerated women and men, DuVernay creates a work of grand historical synthesis.">
+          <img class="image-holder" src="images/13th.jpeg" alt="13TH - A Netflix Original" />
+        </a>
+        <a class="r_link" href="https://vimeo.com/196651264" target="_blank">13TH - A Netflix Original</a>
+      </div>
+
+      <div class="images col-md-3">
+        <a class="example-image-link" href="images/slavery_paine.jpeg" data-lightbox="example-set" data-title="Although slaves were an important part of the new growing economy of America, it also created racial bias we still see today.">
+          <img class="image-holder" src="images/slavery_paine.jpeg" alt="" />
+        </a>
+        <a class="r_link" href="http://slaverysimpactincolonialamerica.weebly.com/" target="_blank">Slavery In Colonial America</a>
+      </div>
+
+      <div class="images col-md-3">
+        <a class="example-image-link" href="images/book.jpeg" data-lightbox="example-set" data-title="Dr John Henrik Clarke rightly lays the groundwork for questioning Columbus's character, intentions and the damage done to aboriginal American and African cultures in his wake.">
+          <img class="image-holder" src="images/book-snap.png" alt="" />
+        </a>
+        <a class="r_link" href="https://www.amazon.com/Christopher-Columbus-Afrikan-Holocaust-Capitalism/dp/1617590304" target="_blank">Christopher Columbus - Afrikan Holocaust Capitalism</a>
+      </div>
+    </div>
+<br/>
+<br/>
+    <div class="row" style="text-align:center;">
+      <div class="images col-md-1"></div>
+      <div class="images col-md-4">
+        <a class="example-image-link" href="http://www.iub.edu/~belton/collection/files/original/15e512525f3f22e5abeffbfe18b51a9d.jpg" data-lightbox="example-set" data-title="Documentary that examines the transatlantic slave trade which took place across the Atlantic Ocean from the 16th through to the 19th centuries.">
+          <img class="image-holder" src="images/1011730.jpeg" alt="" />
+        </a><br>
+        <a class="r_link" href="https://www.youtube.com/watch?v=ak1SlHjFBbU" target="_blank">Journey through Slavery</a>
+      </div>
+      <div class="images col-md-2"></div>
+      <div class="images col-md-4">
+        <a class="example-image-link" href="images/Mezzanine_740.jpeg" data-lightbox="example-set" data-title="The story of the African-American people is the story of the settlement and growth of America itself, a universal tale that all people should experience. – Henry Louis Gates Jr.">
+          <img class="image-holder" src="images/Mezzanine_740.jpeg" alt="" />
+        </a><br>
+        <a class="r_link" href="http://www.pbs.org/black-culture/shows/list/african-american-history-many-rivers-to-cross/" target="_blank">AA: Many Rivers to Cross</a>
+      </div>
+      <div class="images col-md-1"></div>
+    </div>
+	</div>
+
 </main>
 
 <footer>
@@ -109,6 +156,7 @@
     <script src="/bower_components/tether/dist/js/tether.js"></script>
     <script src="/bower_components/vis/dist/vis.js"></script>
     <script src="/bower_components/fullpage.js/dist/jquery.fullpage.js"></script>
+    <script src="/bower_components/lightbox2/dist/js/lightbox.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
